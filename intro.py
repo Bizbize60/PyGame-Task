@@ -135,7 +135,7 @@ class Game:
             self.enemy_1.clear()  # düşmanları temizle
             self.lasers.clear()  # lazerleri temizle
             self.create_enemy()
-        elif self.is_in_menu and self.soundbutton.colliderect(pos):
+        elif self.is_in_menu and self.soundbutton.collidepoint(pos):
             if self.is_sound_active:
                 self.is_sound_active = False
                 sounds.mainsound.stop()
