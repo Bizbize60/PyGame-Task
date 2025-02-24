@@ -1,2 +1,2 @@
 # PyGame-Task
-The worst instruction list I have ever seen,
+işyerine giriş için verilen test
