@@ -1,2 +1,2 @@
 # PyGame-Task
-işyerine giriş için verilen test
+İş yerine giriş için verilen test
